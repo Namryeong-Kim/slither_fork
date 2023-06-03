@@ -1,3 +1,15 @@
+from .contract import *
+from .context import *
+from .enum import *
+from .event import *
+from .function import *
+from .import_and_pragma import *
+from .structure import *
+from .custom_error import *
+from .top_levels import *
+from .variables import *
+from .solidity_type import *
+
 # #from .contract.contract import Contract
 # from .enum.enum import Enum
 # from .event.event import Event
